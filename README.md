@@ -1,8 +1,8 @@
-# Julian Policarpio
+# Overview
 
 BS Information Technology student at Saint Louis University, Philippines.
 
-I'm seeking a 600-hour OJT in cybersecurity, networking, or security-adjacent engineering. My current projects give me application-level work to discuss: authentication, account isolation, browser data handling, and automated tests.
+I enjoy building projects around problems I care about, including budgeting, resume tools, authentication, data isolation, and automated testing. I want a career in cybersecurity and networking, and these projects are how I explore the systems behind that work.
 
 [LinkedIn](https://www.linkedin.com/in/julian-policarpio/)
 
@@ -12,7 +12,7 @@ I'm seeking a 600-hour OJT in cybersecurity, networking, or security-adjacent en
 
 **Resume Studio** is a resume editor for OJT and internship applicants. It saves drafts in the browser and exports PDF, DOCX, TXT, and JSON. Its tests cover input handling, browser persistence, and accessibility checks.
 
-Both repositories are currently private. These are AI-assisted development projects; the code, test cases, and implementation choices are the evidence to review.
+Both repositories are currently private. These are AI-assisted development projects that I use to test ideas, study the code, and understand the choices behind each implementation.
 
 ## Public team project
 
@@ -20,4 +20,4 @@ Both repositories are currently private. These are AI-assisted development proje
 
 ## Current focus
 
-I'm connecting my application projects to security fundamentals: how identity reaches a request, how data access is scoped, and how tests can catch a missed boundary. Cybersecurity and networking are my internship goals.
+I'm learning how identity moves through an application, how data stays scoped to the right user, and how tests catch missed boundaries. I want to carry that same curiosity into cybersecurity and networking.

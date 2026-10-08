@@ -1,7 +1,3 @@
-# Overview
-
-BSIT student building web projects, with cybersecurity and networking as the direction.
-
 ## Selected projects
 
 - **Longhand:** SvelteKit budgeting app with sign-in, account-scoped data, and automated tests.
